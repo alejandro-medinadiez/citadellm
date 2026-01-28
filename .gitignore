@@ -1,2 +1,4 @@
 /target
 /roadmap
+
+*.code-workspace
